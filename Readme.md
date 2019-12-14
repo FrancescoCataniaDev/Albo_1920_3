@@ -4,3 +4,4 @@
 |![](./Francesco_Lanzo/finalspace-hue-profile.png) | Francesco Lanzo | Teacher | N | [github.com/Franz0](https://github.com/Franz0)<br>[https://twitter.com/_frnzo](A twitter guy)
 |![](./Lorenzo_Romani/Photo.jpg) | Lorenzo Romani | Concept Artist | N | [github.com/Akuma96](https://github.com/Akuma96)|
 |![](./Samuele_Bandini/samuelebandini-pixel.jpg) | Samuele Bandini | Concept Art | Team Firefang | [github.com/SamueleBandini](https://github.com/SamueleBandini)<br>[Artstation](https://www.artstation.com/samuelebandini)|
+|![](./EmmaProfita/profile_lr.jpg) | Emma Profita | Concept Atr | Clumsy Team | [github.com/Gracileprofita](https://github.com/Gracileprofita)|
