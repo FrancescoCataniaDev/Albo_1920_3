@@ -9,3 +9,4 @@
 |![](./Tommaso_Mechini/tommy.jpg) | Tommaso Mechini | Student | Team 0 | [github.com/Mecons](https://github.com/Mecons)|
 |![](./Enrico_Fida/iooooooo.png) | Enrico Fida | Student | team Focaccina| [github.com/Enri96](https://github.com/Enri96)
 |![](./Andrea_Morigi/pic.jpg) | Andrea Morigi | Student | team Focaccina| [github.com/maelstrom-darkzapphire](https://github.com/maelstrom-darkzapphire)
+|![](./Marco_Nannini/profile_pic.jpg) | Marco Nannini | Student | team Clumsy| [github.com/NannoGamer](https://github.com/NannoGamer)
