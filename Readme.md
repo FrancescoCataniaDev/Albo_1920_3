@@ -13,7 +13,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 512x512
 |---|---|---|---|---|
 |![](./Eugenio_Roverato/Image512x.jpg) | Eugenio Roverato | Student | Team Focaccina | [github.com/EugenioRoverato](https://github.com/EugenioRoverato)|
 
-## Concept art
+## Concept Art
 |   | Nome | Corso | Team | Url |
 |---|---|---|---|---|
 |![](./Lorenzo_Romani/Photo.jpg) | Lorenzo Romani | Concept Art | N | [github.com/Akuma96](https://github.com/Akuma96)|
@@ -24,3 +24,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 512x512
 |![](./Enrico_Fida/iooooooo.png) | Enrico Fida | Student | team Focaccina| [github.com/Enri96](https://github.com/Enri96)
 |![](./Andrea_Morigi/pic.jpg) | Andrea Morigi | Student | team Focaccina| [github.com/maelstrom-darkzapphire](https://github.com/maelstrom-darkzapphire)
 |![](./Marco_Nannini/profile_pic.jpg) | Marco Nannini | Student | team Clumsy| [github.com/NannoGamer](https://github.com/NannoGamer)
+
+## 3D Art
+|   | Nome | Corso | Team | Url |
+|---|---|---|---|---|
