@@ -7,7 +7,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 512x512
 |---|---|---|---|---|
 |![](./NicoloRenzoni/profile_lr.jpg) | Nicolò Renzoni | Game Programming | Clumsy Team | [github.com/KlausRenzo](https://github.com/KlausRenzo)<br>[klausrenzo.github.io](https://klausrenzo.github.io)
 |![](./GianniVallerini/gianni_vallerini.jpg) | Gianni Vallerini | Game Programming | Team Firefang | [GitHub](https://github.com/gianni173)[GitHub.io](https://gianni173.github.io/)
-|![](./AndreaCianfanelli/andrea_cianfanelli.jpg) | Andrea Cianfanelli | Game Programming | Team Minecrab | [github.com/cinfa78](http://github.com/cinfa78)<br>[cinfa78.github.io](http://cinfa78.github.io)
+|![](./AndreaCianfanelli/andrea_cianfanelli.jpg) | Andrea Cianfanelli | Game Programming | Team Minecrab | [github.com/cinfa78](http://github.com/cinfa78)<br>[cinfa78.github.io](http://cinfa78.github.io)<br>[instagram.com/cinfa78](http://www.instagram.com/cinfa78/)  
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
