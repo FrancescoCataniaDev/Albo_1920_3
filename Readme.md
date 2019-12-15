@@ -1,4 +1,4 @@
-# Studenti anno 3 - 2019/2020
+﻿# Studenti anno 3 - 2019/2020
 
 NB: che le immagini siano tutte JPG di dimensione massima 512x512 
 
@@ -11,7 +11,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 512x512
 |![](./Enrico_Fida/iooooooo.png) | Enrico Fida | Student | team Focaccina| [github.com/Enri96](https://github.com/Enri96)
 |![](./Andrea_Morigi/pic.jpg) | Andrea Morigi | Student | team Focaccina| [github.com/maelstrom-darkzapphire](https://github.com/maelstrom-darkzapphire)
 |![](./Marco_Nannini/profile_pic.jpg) | Marco Nannini | Student | team Clumsy| [github.com/NannoGamer](https://github.com/NannoGamer)
-|![](./GianniVallerini/gianni_vallerini.jpg) | Gianni Vallerini | Game Programming | Team Firefang | [GitHub](https://github.com/gianni173)
+|![](./GianniVallerini/gianni_vallerini.jpg) | Gianni Vallerini | Game Programming | Team Firefang | [GitHub](https://github.com/gianni173)[GitHub.io](https://gianni173.github.io/)
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
