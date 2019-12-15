@@ -16,6 +16,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 512x512
 ## Game Design
 |   | Nome | Corso | Team | Url |
 |---|---|---|---|---|
+|![](./Eugenio_Roverato/Image512x.jpg) | Eugenio Roverato | Student | Team Focaccina | [github.com/EugenioRoverato](https://github.com/EugenioRoverato)|
 
 ## Concept art
 |   | Nome | Corso | Team | Url |
